@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13925" started-at="2022-02-08T08:06:49Z" finished-at="2022-02-08T08:07:03Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13925" started-at="2022-02-08T08:06:49Z" finished-at="2022-02-08T08:07:03Z">
+      <class name="com.test.Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.Test@57fffcd7]" name="setup" is-config="true" duration-ms="54010" started-at="2022-02-08T08:05:55Z" finished-at="2022-02-08T08:06:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verify_search_hotel()[pri:0, instance:com.test.Test@57fffcd7]" name="verify_search_hotel" duration-ms="13511" started-at="2022-02-08T08:06:49Z" finished-at="2022-02-08T08:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_search_hotel -->
+        <test-method status="PASS" signature="setupclose()[pri:0, instance:com.test.Test@57fffcd7]" name="setupclose" is-config="true" duration-ms="12303" started-at="2022-02-08T08:07:09Z" finished-at="2022-02-08T08:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupclose -->
+      </class> <!-- com.test.Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
